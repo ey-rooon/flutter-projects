@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640021975083",
+    "project_id": "lopez-contact-organizer-ff653",
+    "storage_bucket": "lopez-contact-organizer-ff653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640021975083:android:cef346fb8306a9f703da6e",
+        "android_client_info": {
+          "package_name": "com.example.lopez_contact_organizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640021975083-rd5g7l9t3j648lmpissudgm5rtnm4hjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgssNjY5eMM2scorHhdTJjSlZdJpc8Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640021975083-rd5g7l9t3j648lmpissudgm5rtnm4hjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
