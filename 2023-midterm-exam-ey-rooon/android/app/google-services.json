@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358479882207",
+    "project_id": "mad2-2023",
+    "storage_bucket": "mad2-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358479882207:android:4beef216f784c016d2466a",
+        "android_client_info": {
+          "package_name": "com.example.mad2_quiz1_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358479882207-jufiismv9q2bffn9vfj5gk149o7h5e7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhSAF9AXVsTfz4vpcGj71lgZI1UNp_Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358479882207-jufiismv9q2bffn9vfj5gk149o7h5e7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
